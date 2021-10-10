@@ -1,0 +1,768 @@
+@media(max-width: 1399px){
+    .heading p {
+        padding: 0 241px;
+    }
+    .features span {
+        width: 81px;
+        height: 63px;
+    }
+    .mobile img {
+        width: 92%;
+    }
+    .mobile {
+        left: 0;
+        transform: translateX(0);
+    }
+    footer ul li a {
+        margin-left: 25px;
+        font-size: 15px;
+    }
+}
+@media(max-width: 1199px){
+    .heading p {
+        padding: 0 241px;
+    }
+    .features span {
+        width: 86px;
+        height: 55px;
+    }
+    .mobile img {
+        width: 92%;
+    }
+    .mobile {
+        left: 0;
+        transform: translateX(0);
+    }
+    footer ul li a {
+        margin-left: 25px;
+        font-size: 15px;
+    }
+    .navbar-nav {
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 24px;
+    }
+    .social ul li {
+        height: 41px;
+        line-height: 41px;
+    }
+    .client-img {
+        width: 14%;
+    }
+}
+@media(max-width: 991px){
+    .heading p {
+        padding: 0 120px;
+    }
+    .features span {
+        width: 74px;
+        height: 51px;
+    }
+    .mobile img {
+        width: 86%;
+    }
+    .mobile {
+        position: static;
+    }
+    footer ul li a {
+        margin-left: 25px;
+        font-size: 15px;
+    }
+    .navbar-nav {
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 24px;
+    }
+    .social ul li {
+        height: 45px;
+        line-height: 45px;
+    }
+    .supports img{
+        width: 100%;
+    }
+    .man-info img {
+        width: 100%;
+    }
+    .banner-cont h1 {
+        font-size: 50px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0px!important;
+        font-size: 17px;
+        margin-bottom: 20px;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: -10px;
+    }
+    .client-img {
+        width: 18%;
+    }
+    .counter-col p {
+        font-size: 15px;
+    }
+    .sub-service-col-3 {
+        margin-top: 26px;
+    }
+    .left-side {
+        margin-bottom: 50px;
+    }
+    .displayshow{
+        display: none;
+    }
+    .displaynone{
+        display: inherit;
+    }
+    .main-features {
+        margin-bottom: 47px;
+    }
+    footer ul {
+        justify-content: center;
+        margin-top: 13px;
+    }
+    footer p {
+        text-align: center;
+        font-size: 17px;
+    }
+}
+@media(max-width: 767px){
+    .heading p {
+        padding: 0 33px;
+    }
+    .features span {
+        width: 78px;
+        height: 48px;
+    }
+    .mobile img {
+        width: 86%;
+    }
+    .mobile {
+        position: static;
+    }
+    footer ul li a {
+        margin-left: 0;
+        font-size: 15px;
+    }
+    .navbar-nav {
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 24px;
+    }
+    .social ul li {
+        height: 45px;
+        line-height: 45px;
+    }
+    .supports img{
+        width: 100%;
+    }
+    .man-info img {
+        width: 100%;
+    }
+    .banner-cont h1 {
+        font-size: 51px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0px!important;
+        font-size: 17px;
+        margin-bottom: 20px;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: -10px;
+    }
+    .client-img {
+        width: 15%;
+    }
+    .counter-col p {
+        font-size: 15px;
+    }
+    .sub-service-col-3 {
+    margin: 0!important;
+    }
+    .left-side {
+        margin-bottom: 50px;
+    }
+    .displayshow{
+        display: none;
+    }
+    .displaynone{
+        display: inherit;
+    }
+    .main-features {
+        margin-bottom: 47px;
+    }
+    footer ul {
+        margin-top: 13px;
+        display: block;
+        text-align: center;
+    }
+    footer p {
+        text-align: center;
+        font-size: 17px;
+    }
+    .buy-sell p {
+        text-align: center;
+    }
+    .second-menu {
+        margin-top: 4px;
+    }
+    .second-menu ul {
+        justify-content: center;
+    }
+    .second-menu ul li {
+    margin: 0 11px;
+    }
+    footer ul li {
+        margin-bottom: 10px;
+    }
+    .footer-info {
+        text-align: center;
+    }
+    .social ul {
+        justify-content: center;
+    }
+    .location {
+        justify-content: center;
+    }
+    .left-middle, .right-middle, .right-side{
+        margin-bottom: 50px;
+    }
+    footer {
+        padding: 23px 0 13px;
+    }
+    .newsletter form {
+        width: 68%;
+        margin: auto;
+    }
+    .sub-service-col {
+        margin-bottom: 26px;
+    }
+    .supports{
+        display: none;
+    }
+    .man-info {
+        margin-bottom: 40px;
+    }
+    .teammates {
+        padding: 50px 0 40px;
+    }
+    .man-info h3 {
+        margin-top: 28px;
+        font-size: 25px;
+    }
+    .service:hover .heading span {
+        width: 12%;
+    }
+    .second-banner:hover .heading-2 span {
+        width: 12%;
+    }
+    .teammates:hover .heading-3 span {
+        width: 12%;
+    }
+    .form:hover .heading-4 span {
+        width: 12%;
+    }
+    .testimonial:hover .heading-5 span {
+        width: 12%;
+    }
+}
+@media(max-width: 575px){
+    .heading p {
+        padding: 0 0px;
+    }
+    .features span {
+        width: 109px;
+        height: 48px;
+    }
+    .mobile img {
+        width: 86%;
+    }
+    .mobile {
+        position: static;
+    }
+    footer ul li a {
+        margin-left: 0;
+        font-size: 15px;
+    }
+    .navbar-nav {
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 24px;
+    }
+    .social ul li {
+        height: 45px;
+        line-height: 45px;
+    }
+    .supports img{
+        width: 100%;
+    }
+    .man-info img {
+        width: 64%;
+    }
+    .banner-cont h1 {
+        font-size: 50px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0px!important;
+        font-size: 17px;
+        margin-bottom: 20px;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: -10px;
+    }
+    .client-img {
+        width: 16%;
+    }
+    .counter-col p {
+        font-size: 15px;
+    }
+    .sub-service-col-3 {
+    margin: 0!important;
+    }
+    .left-side {
+        margin-bottom: 50px;
+    }
+    .displayshow{
+        display: none;
+    }
+    .displaynone{
+        display: inherit;
+    }
+    .main-features {
+        margin-bottom: 47px;
+    }
+    footer ul {
+        margin-top: 13px;
+        display: block;
+        text-align: center;
+    }
+    footer p {
+        text-align: center;
+        font-size: 17px;
+    }
+    .buy-sell p {
+        text-align: center;
+    }
+    .second-menu {
+        margin-top: 4px;
+    }
+    .second-menu ul {
+        justify-content: center;
+    }
+    .second-menu ul li {
+    margin: 0 11px;
+    }
+    footer ul li {
+        margin-bottom: 10px;
+    }
+    .footer-info {
+        text-align: center;
+    }
+    .social ul {
+        justify-content: center;
+    }
+    .location {
+        justify-content: center;
+    }
+    .left-middle, .right-middle, .right-side{
+        margin-bottom: 50px;
+    }
+    footer {
+        padding: 23px 0 13px;
+    }
+    .newsletter form {
+        width: 96%;
+        margin: auto;
+    }
+    .sub-service-col {
+        margin-bottom: 26px;
+    }
+    .supports{
+        display: none;
+    }
+    .man-info {
+        margin-bottom: 40px;
+    }
+    .teammates {
+        padding: 50px 0 40px;
+    }
+    .man-info h3 {
+        margin-top: 28px;
+        font-size: 25px;
+    }
+    .service:hover .heading span {
+        width: 12%;
+    }
+    .second-banner:hover .heading-2 span {
+        width: 12%;
+    }
+    .teammates:hover .heading-3 span {
+        width: 12%;
+    }
+    .form:hover .heading-4 span {
+        width: 12%;
+    }
+    .testimonial:hover .heading-5 span {
+        width: 12%;
+    }
+    .client h5 {
+        font-size: 19px;
+        padding: 0 19px;
+    }
+    .counter-col {
+        margin-bottom: 19px;
+    }
+    .counter-area {
+        padding: 35px 0 22px;
+    }
+    .heading h2 {
+        font-size: 30px;
+    }
+    .counterup {
+        margin-bottom: 23px;
+    }
+    .counter-sec {
+        margin-bottom: 11px;
+    }
+    .btn-banner:nth-child(2) {
+        margin-left: 18px!important;
+    }
+    .btn-banner {
+        margin-left: 0px!important;
+    }
+}
+@media(max-width: 380px){
+    .heading p {
+        padding: 0 0px;
+    }
+    .features span {
+        width: 126px;
+        height: 48px;
+    }
+    .mobile img {
+        width: 86%;
+    }
+    .mobile {
+        position: static;
+    }
+    footer ul li a {
+        margin-left: 0;
+        font-size: 15px;
+    }
+    .navbar-nav {
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 24px;
+    }
+    .social ul li {
+        height: 45px;
+        line-height: 45px;
+    }
+    .supports img{
+        width: 100%;
+    }
+    .man-info img {
+        width: 64%;
+    }
+    .banner-cont h1 {
+        font-size: 50px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0px!important;
+        font-size: 17px;
+        margin-bottom: 20px;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: -10px;
+    }
+    .client-img {
+        width: 16%;
+    }
+    .counter-col p {
+        font-size: 15px;
+    }
+    .sub-service-col-3 {
+    margin: 0!important;
+    }
+    .left-side {
+        margin-bottom: 50px;
+    }
+    .displayshow{
+        display: none;
+    }
+    .displaynone{
+        display: inherit;
+    }
+    .main-features {
+        margin-bottom: 47px;
+    }
+    footer ul {
+        margin-top: 13px;
+        display: block;
+        text-align: center;
+    }
+    footer p {
+        text-align: center;
+        font-size: 17px;
+    }
+    .buy-sell p {
+        text-align: center;
+    }
+    .second-menu {
+        margin-top: 4px;
+    }
+    .second-menu ul {
+        justify-content: center;
+    }
+    .second-menu ul li {
+    margin: 0 11px;
+    }
+    footer ul li {
+        margin-bottom: 10px;
+    }
+    .footer-info {
+        text-align: center;
+    }
+    .social ul {
+        justify-content: center;
+    }
+    .location {
+        justify-content: center;
+    }
+    .left-middle, .right-middle, .right-side{
+        margin-bottom: 50px;
+    }
+    footer {
+        padding: 23px 0 13px;
+    }
+    .newsletter form {
+        width: 96%;
+        margin: auto;
+    }
+    .sub-service-col {
+        margin-bottom: 26px;
+    }
+    .supports{
+        display: none;
+    }
+    .man-info {
+        margin-bottom: 40px;
+    }
+    .teammates {
+        padding: 50px 0 40px;
+    }
+    .man-info h3 {
+        margin-top: 28px;
+        font-size: 25px;
+    }
+    .service:hover .heading span {
+        width: 12%;
+    }
+    .second-banner:hover .heading-2 span {
+        width: 12%;
+    }
+    .teammates:hover .heading-3 span {
+        width: 12%;
+    }
+    .form:hover .heading-4 span {
+        width: 12%;
+    }
+    .testimonial:hover .heading-5 span {
+        width: 12%;
+    }
+    .client h5 {
+        font-size: 19px;
+        padding: 0 19px;
+    }
+    .counter-col {
+        margin-bottom: 19px;
+    }
+    .counter-area {
+        padding: 35px 0 22px;
+    }
+    .heading h2 {
+        font-size: 30px;
+    }
+    .counterup {
+        margin-bottom: 23px;
+    }
+    .counter-sec {
+        margin-bottom: 11px;
+    }
+    .btn-banner:nth-child(2) {
+        margin-left: 8px!important;
+    }
+    .btn-banner {
+        margin-left: 0px!important;
+    }
+}
+@media(max-width: 345px){
+    .heading p {
+        padding: 0 0px;
+    }
+    .features span {
+        width: 137px;
+        height: 44px;
+    }
+    .mobile img {
+        width: 86%;
+    }
+    .mobile {
+        position: static;
+    }
+    footer ul li a {
+        margin-left: 0;
+        font-size: 15px;
+    }
+    .navbar-nav {
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 24px;
+    }
+    .social ul li {
+        height: 45px;
+        line-height: 45px;
+    }
+    .supports img{
+        width: 100%;
+    }
+    .man-info img {
+        width: 64%;
+    }
+    .banner-cont h1 {
+        font-size: 43px;
+        margin-top: 20px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0px!important;
+        font-size: 17px;
+        margin-bottom: 20px;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: -10px;
+    }
+    .client-img {
+        width: 16%;
+    }
+    .counter-col p {
+        font-size: 15px;
+    }
+    .sub-service-col-3 {
+    margin: 0!important;
+    }
+    .left-side {
+        margin-bottom: 50px;
+    }
+    .displayshow{
+        display: none;
+    }
+    .displaynone{
+        display: inherit;
+    }
+    .main-features {
+        margin-bottom: 47px;
+    }
+    footer ul {
+        margin-top: 13px;
+        display: block;
+        text-align: center;
+    }
+    footer p {
+        text-align: center;
+        font-size: 17px;
+    }
+    .buy-sell p {
+        text-align: center;
+        font-size: 15px;
+    }
+    .second-menu {
+        margin-top: 4px;
+    }
+    .second-menu ul {
+        justify-content: center;
+    }
+    .second-menu ul li {
+    margin: 0 11px;
+    font-size: 15px;
+    }
+    footer ul li {
+        margin-bottom: 10px;
+    }
+    .footer-info {
+        text-align: center;
+    }
+    .social ul {
+        justify-content: center;
+    }
+    .location {
+        justify-content: center;
+    }
+    .left-middle, .right-middle, .right-side{
+        margin-bottom: 50px;
+    }
+    footer {
+        padding: 23px 0 13px;
+    }
+    .newsletter form {
+        width: 96%;
+        margin: auto;
+    }
+    .sub-service-col {
+        margin-bottom: 26px;
+    }
+    .supports{
+        display: none;
+    }
+    .man-info {
+        margin-bottom: 40px;
+    }
+    .teammates {
+        padding: 50px 0 40px;
+    }
+    .man-info h3 {
+        margin-top: 28px;
+        font-size: 25px;
+    }
+    .service:hover .heading span {
+        width: 17%;
+    }
+    .second-banner:hover .heading-2 span {
+        width: 17%;
+    }
+    .teammates:hover .heading-3 span {
+        width: 17%;
+    }
+    .form:hover .heading-4 span {
+        width: 17%;
+    }
+    .testimonial:hover .heading-5 span {
+        width: 17%;
+    }
+    .client h5 {
+        font-size: 19px;
+        padding: 0 19px;
+    }
+    .counter-col {
+        margin-bottom: 19px;
+    }
+    .counter-area {
+        padding: 35px 0 22px;
+    }
+    .heading h2 {
+        font-size: 30px;
+    }
+    .counterup {
+        margin-bottom: 23px;
+    }
+    .counter-sec {
+        margin-bottom: 11px;
+    }
+    .btn-banner:nth-child(2) {
+        margin-left: 8px!important;
+    }
+    .btn-banner {
+        margin-left: 0px!important;
+        margin-bottom: 22px;
+    }
+    .feature-txt {
+        margin-left: -12px;
+    }
+}
